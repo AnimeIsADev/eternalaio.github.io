@@ -146,60 +146,60 @@ mark{
 	background-color: #283038;
 }
 .background-dark-blue-2 {
-	background-color: #2e0043;
+	background-color: #ff4600e6;
 }
 
 .box-shadow-back {
-	box-shadow: 0px 0px 43px -23px rgb(23, 1, 33);
+	box-shadow: 0px 0px 43px -23px #ff4600e6;
 }
 .background-dark-blue-3 {
-	background: linear-gradient(-45deg, #7009a2, #3a0155, #29013c);
+	background: linear-gradient(-45deg, #ff4600e6, #ff4f00c2, #ffffffd9);
 }
 .background-dark-blue-4 {
-	background-color: #21092c;
+	background-color: #ff4600e6;
 }
 .background-light-blue {
 	background-color: rgba(245, 231, 252, 0.9);
 }
 .background-gradient-dark{
-	background: linear-gradient(#32014a, #621f75);
+	background: linear-gradient(-45deg, #ffffffd9, #ff4f00c2, #ff4600e6);
 }
 .background-gradient-howuse{
-	background: linear-gradient(#1b061d, #c224d9);
+	background: linear-gradient(#ff4600e6, #ffffffd9);
 }
 .background-gradient-dark-re{
-	background: linear-gradient(#320147, #3c0055, #510073);
+	background: linear-gradient(-45deg, #ff4600e6, #ff4f00c2, #ffffffd9);
 }
 .backgroung-gradient-reviews{
-    background: linear-gradient(#300345, #510072);
+	background: linear-gradient(-45deg, #ffffffd9, #ff4f00c2, #ff4600e6);
 }
 .background-gradient-light{
-	background: linear-gradient(#004cff, #4d82ff);
+	background: linear-gradient(#ff4600e6, #ffffffd9);
 }
 .color-pricelist{
 	background: linear-gradient(-45deg, #ff4600e6, #ff4f00c2, #ffffffd9);
 }
 
 .background-gradient-light-re{
-	background: linear-gradient(#4d82ff, #004cff);
+	background: linear-gradient(#ff4600e6, #ffffffd9);
 }
 .background-light-blue-1 {
-	background-color: #004cff;
+	background-color: #ff4600e6;
 }
 .background-light-blue-2 {
-	background-color: #4d82ff;
+	background-color: #ff4600e6;
 }
 .background-gradient-green{
-	background: linear-gradient(#2CBFC7, #46EEAA);
+	background: linear-gradient(#ff4600e6, #ffffffd9);
 }
 .background-gradient-green-re{
-	background: linear-gradient(#46EEAA, #2CBFC7);
+	background: linear-gradient(#ff4600e6, #ffffffd9);
 }
 .background-light-green-1 {
-	background-color: #2CBFC7;
+	background-color: #ff4600e6;
 }
 .background-light-green-2 {
-	background-color: #46EEAA;
+	background-color: #ffffffd9;
 }
 .img-wrap  {
 	position:relative;
@@ -344,7 +344,7 @@ mark{
 	transition : all 0.3s ease-out;
 }
 .menu-back.cbp-af-header-shrink.dark{
-	background-color: rgb(33, 9, 44);
+	background-color: #ff4600e6;
 }
 .cbp-af-header.cbp-af-header-shrink .navbar {
 	padding: 0;
@@ -610,7 +610,7 @@ mark{
 	height: 100%;
 }
 .scene.dark {
-	background: #1e0b56;
+	background: #ff4600e6;;
 }
 .scene path:first-child {
 	opacity: 0.06;
@@ -779,7 +779,7 @@ mark{
 	background: url('../img/wave-dark.svg') repeat-x; 
 }
 .ocean.blue{
-	background: #004cff;
+	background: #ff4600e6;
 }
 .ocean.blue .wave{
 	background: url('../img/wave-blue.svg') repeat-x; 
@@ -982,7 +982,7 @@ mark{
 	color: #a990b2;
 }
 .table-sale p span{
-	background-color: #673AB7;
+	background-color: #ff4600e6;
 	color: #fff;
 	border-radius: 15px;
 	padding: 6px 15px;
@@ -1020,7 +1020,7 @@ mark{
 .btn-primary.table-ver:hover,
 .btn-primary.table-ver:active,
 .btn-primary.table-ver:focus{
-	background-color: #7100a5 !important;
+	background-color: #ff4600e6 !important;
 }
 
 /* #Concept
@@ -1226,10 +1226,10 @@ Anuncio
 	background-image: url('../img/check-green.svg');
 }
 .item.dark .roadmap-box:after{
-	background-color: #31183b;
+	background-color: #ff4600e6;
 }
 .item.blue .roadmap-box:after{
-	background-color: #4d82ff;
+	background-color: #ff4600e6;
 }
 .item.blue-gradient .roadmap-box:after{
 	background-color: #2CBFC7;
@@ -1282,7 +1282,7 @@ Anuncio
 }
 .prev-roadmap.dark:hover,
 .next-roadmap.dark:hover{
-	background-color: #2e0043 !important;
+	background-color: #000000 !important;
 }
 .prev-roadmap{
 	left:15px;
@@ -1471,7 +1471,7 @@ Anuncio
 	overflow: hidden;
 }
 .modal-content.dark {
-	background-color: #0e0529;
+	background-color: #ff4600e6;
 }
 .modal-header {
 	padding: 1rem;
@@ -1909,7 +1909,7 @@ input.btn.btn-primary{
 		background-color: rgb(25, 2, 36);
 	}
 	.background-gradient-reviews{
-        background: linear-gradient(#341139, #19071b);
+       	background: linear-gradient(-45deg, #ff4600e6, #ff4f00c2, #ffffffd9);
     }
 	.img-precision-byteproxy img {
     width: 100%;
@@ -2086,13 +2086,3 @@ input.btn.btn-primary{
 		text-shadow: 1px 4px 3px rgba(0,0,0,0.06);
 	}	
 }
-
-
-
-
-
-
-
-
-
-
