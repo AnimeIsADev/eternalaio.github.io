@@ -14,7 +14,7 @@ h1, h2, h3, h4, h5, h6,
 	font-weight:400;
 	margin-bottom: 0.8rem;
 	line-height: 1.25;
-	color: #0093ff;
+	color: #00e5ff;
 }
 h1, .h1 {
 	font-size: 2.8rem;
@@ -146,57 +146,57 @@ mark{
 	background-color: #283038;
 }
 .background-dark-blue-2 {
-	background-color: #ff4600e6;
+	background-color: #00e5ff;
 }
 
 .box-shadow-back {
-	box-shadow: 0px 0px 43px -23px #ff4600e6;
+	box-shadow: 0px 0px 43px -23px #00e5ff;
 }
 .background-dark-blue-3 {
-	background: linear-gradient(-45deg, #ff4600e6, #ff4f00c2, #ffffffd9);
+	background: linear-gradient(-45deg, #00e5ff, #007bffc2, #ffffffd9);
 }
 .background-dark-blue-4 {
-	background-color: #ff4600e6;
+	background-color: #00e5ff;
 }
 .background-light-blue {
 	background-color: rgba(245, 231, 252, 0.9);
 }
 .background-gradient-dark{
-	background: linear-gradient(-45deg, #ffffffd9, #ff4f00c2, #ff4600e6);
+	background: linear-gradient(-45deg, #ffffffd9, #007bffc2, #00e5ff);
 }
 .background-gradient-howuse{
-	background: linear-gradient(#ff4600e6, #ffffffd9);
+	background: linear-gradient(#00e5ff, #ffffffd9);
 }
 .background-gradient-dark-re{
-	background: linear-gradient(-45deg, #ff4600e6, #ff4f00c2, #ffffffd9);
+	background: linear-gradient(-45deg, #00e5ff, #007bffc2, #ffffffd9);
 }
 .backgroung-gradient-reviews{
-	background: linear-gradient(-45deg, #ffffffd9, #ff4f00c2, #ff4600e6);
+	background: linear-gradient(-45deg, #ffffffd9, #007bffc2, #00e5ff);
 }
 .background-gradient-light{
-	background: linear-gradient(#ff4600e6, #ffffffd9);
+	background: linear-gradient(#00e5ff, #ffffffd9);
 }
 .color-pricelist{
-	background: linear-gradient(-45deg, #ff4600e6, #ff4f00c2, #ffffffd9);
+	background: linear-gradient(-45deg, #00e5ff, #007bffc2, #ffffffd9);
 }
 
 .background-gradient-light-re{
-	background: linear-gradient(#ff4600e6, #ffffffd9);
+	background: linear-gradient(#00e5ff, #ffffffd9);
 }
 .background-light-blue-1 {
-	background-color: #ff4600e6;
+	background-color: #00e5ff;
 }
 .background-light-blue-2 {
-	background-color: #ff4600e6;
+	background-color: #00e5ff;
 }
 .background-gradient-green{
-	background: linear-gradient(#ff4600e6, #ffffffd9);
+	background: linear-gradient(#00e5ff, #ffffffd9);
 }
 .background-gradient-green-re{
-	background: linear-gradient(#ff4600e6, #ffffffd9);
+	background: linear-gradient(#00e5ff, #ffffffd9);
 }
 .background-light-green-1 {
-	background-color: #ff4600e6;
+	background-color: #00e5ff;
 }
 .background-light-green-2 {
 	background-color: #ffffffd9;
@@ -344,7 +344,7 @@ mark{
 	transition : all 0.3s ease-out;
 }
 .menu-back.cbp-af-header-shrink.dark{
-	background-color: #ff4600e6;
+	background-color: #00e5ff;
 }
 .cbp-af-header.cbp-af-header-shrink .navbar {
 	padding: 0;
@@ -610,7 +610,7 @@ mark{
 	height: 100%;
 }
 .scene.dark {
-	background: #ff4600e6;;
+	background: #00e5ff;;
 }
 .scene path:first-child {
 	opacity: 0.06;
@@ -779,7 +779,7 @@ mark{
 	background: url('../img/wave-dark.svg') repeat-x; 
 }
 .ocean.blue{
-	background: #ff4600e6;
+	background: #00e5ff;
 }
 .ocean.blue .wave{
 	background: url('../img/wave-blue.svg') repeat-x; 
@@ -982,7 +982,7 @@ mark{
 	color: #a990b2;
 }
 .table-sale p span{
-	background-color: #ff4600e6;
+	background-color: #00e5ff;
 	color: #fff;
 	border-radius: 15px;
 	padding: 6px 15px;
@@ -1020,7 +1020,7 @@ mark{
 .btn-primary.table-ver:hover,
 .btn-primary.table-ver:active,
 .btn-primary.table-ver:focus{
-	background-color: #ff4600e6 !important;
+	background-color: #00e5ff !important;
 }
 
 /* #Concept
@@ -1226,10 +1226,10 @@ Anuncio
 	background-image: url('../img/check-green.svg');
 }
 .item.dark .roadmap-box:after{
-	background-color: #ff4600e6;
+	background-color: #00e5ff;
 }
 .item.blue .roadmap-box:after{
-	background-color: #ff4600e6;
+	background-color: #00e5ff;
 }
 .item.blue-gradient .roadmap-box:after{
 	background-color: #2CBFC7;
@@ -1471,7 +1471,7 @@ Anuncio
 	overflow: hidden;
 }
 .modal-content.dark {
-	background-color: #ff4600e6;
+	background-color: #00e5ff;
 }
 .modal-header {
 	padding: 1rem;
@@ -1695,7 +1695,7 @@ Anuncio
 	left: 0;
 	z-index: 2;
 	font-size: 13px;
-	color: #db695d;
+	color: #5dd6db;
 	font-weight: 400;
 	letter-spacing: 1px;
 }
@@ -1898,7 +1898,7 @@ input.btn.btn-primary{
 		padding-bottom: 5px;
 	}
 	.menu-back.dark{
-		background-color: rgb(255 61 0);
+		background-color: rgb(0 152 255);
 	}
 	.cbp-af-header.cbp-af-header-shrink {
 		background-color: rgba(250,250,250,1);
@@ -1909,7 +1909,7 @@ input.btn.btn-primary{
 		background-color: rgb(25, 2, 36);
 	}
 	.background-gradient-reviews{
-       	background: linear-gradient(-45deg, #ff4600e6, #ff4f00c2, #ffffffd9);
+       	background: linear-gradient(-45deg, #00e5ff, #007bffc2, #ffffffd9);
     }
 	.img-precision-byteproxy img {
     width: 100%;
