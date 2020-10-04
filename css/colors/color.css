@@ -28,18 +28,18 @@
 .menu-back.dark .nav-link:active,
 .nav-link:hover,  
 .nav-link:active {
-	color: #ff890f !important;
+	color: #00e5ff !important;
 }
 .nav-link.mPS2id-highlight,
 .menu-back.dark .nav-link.mPS2id-highlight{
-	color: #ff890f !important;
+	color: #00e5ff !important;
 }
 .color-pr{
 	color: #ada4b1 !important;
 }
 .btn-primary.table-ver:active,
 .btn-primary.table-ver:focus{
-	color: #ff890f !important;
+	color: #00e5ff !important;
 }
 .hero-center-wrap p span.back-color,
 .btn-primary,
@@ -60,7 +60,7 @@
 input.btn.btn-primary,
 .prev-roadmap.dark,
 .next-roadmap.dark{
-	background-color: #ff4500 !important;
+	background-color: #00e5ff !important;
 }
 .table-sale.future-price .table-line,
 .nav-item:hover ul,
@@ -70,7 +70,7 @@ input.btn.btn-primary,
 }
 .btn-primary:focus,
 .btn-primary:active{
-	background-color: #f9460a !important;
+	background-color: #00e5ff !important;
 }
 .countdown li {
 	box-shadow: 0 8px 40px -6px rgba(123, 94, 234, 0.2); 
@@ -120,19 +120,19 @@ input.btn.btn-primary,
 .scene path:nth-child(5),
 .scene path:nth-child(6),
 .scene path:nth-child(7) {
-	fill: #ff890f;
+	fill: #00e5ff;
 }
 figure.vimeo a:before, figure.youtube a:before {
-	border-left: 10px solid #ff890f;
+	border-left: 10px solid #00e5ff;
 }
 figure.vimeo:hover a:after, figure.youtube:hover a:after {
-	background:#ff890f;
+	background:#00e5ff;
 }
 ::selection {
 	background-color: #a337f9;
 }
 ::-moz-selection {
-	background-color: #ff890f;
+	background-color: #00e5ff;
 }
 @media (max-width: 991px) { 
 	.nav-link:hover,  
